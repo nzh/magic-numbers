@@ -1,7 +1,7 @@
 # Magic Numbers
-An ordered collection of numbers that have some "magic" or anthropoligical significance.
+An ordered collection of numbers that have some "magic" (🔮) or anthropoligical (🌍) significance.
 
-# Index
+
 | Number  | Magicity |
 | ------------- | ------------- |
 | 0  | ["Nothing will come of nothing" --King Lear](https://en.wikipedia.org/wiki/King_Lear) |
